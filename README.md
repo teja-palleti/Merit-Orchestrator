@@ -1,6 +1,19 @@
-Here's the revised Markdown code for your GitHub `README.md` file, incorporating all the formatting tips:
+### Merit Orchestrator
+MeritOrchestrator is a streamlined system designed to automate the generation and distribution of certificates for merit students and event participants. This tool efficiently processes data from Excel spreadsheets, creates personalized certificates, and sends them directly to the recipients' email addresses.
 
 ```markdown
+
+**How It Works:**
+Data Upload: Upload your Excel sheet containing student names and email addresses.
+Template Selection: Choose or customize a certificate template to fit your needs.
+Certificate Generation: The system generates certificates for each recipient based on the data provided.
+Email Distribution: Automatically sends the certificates to the specified email addresses.
+
+**Technologies Used:**
+Python: For scripting the automation and data processing.
+Pandas: To handle and process Excel data.
+SMTP: For sending emails.
+
 # Certificate Generation and Upload to Google Drive
 
 This repository contains the code to generate certificates from a CSV file using a DOCX template and upload them to Google Drive.
