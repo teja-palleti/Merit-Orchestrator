@@ -53,8 +53,7 @@
 
     <h2>File Upload</h2>
     <p>1. Use the following code to upload your service account JSON file, CSV file, and DOCX template file:</p>
-    <pre><code>from google.colab import files
-uploaded = files.upload()</code></pre>
+    <pre><code>from google.colab import files uploaded = files.upload()</code></pre>
 
     <p>2. The paths of these files will be dynamically set based on the uploaded files.</p>
 
