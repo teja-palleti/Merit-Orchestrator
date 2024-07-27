@@ -3,13 +3,13 @@ MeritOrchestrator is a streamlined system designed to automate the generation an
 
 ```markdown
 
-**How It Works:**
+How It Works:
 Data Upload: Upload your Excel sheet containing student names and email addresses.
 Template Selection: Choose or customize a certificate template to fit your needs.
 Certificate Generation: The system generates certificates for each recipient based on the data provided.
 Email Distribution: Automatically sends the certificates to the specified email addresses.
 
-**Technologies Used:**
+Technologies Used:
 Python: For scripting the automation and data processing.
 Pandas: To handle and process Excel data.
 SMTP: For sending emails.
